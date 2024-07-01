@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkhan Guzeller</h1>
-<h3 align="center">A Second-Year Computer Engineering Student | Aspiring Data Scientist</h3>
+<h3 align="center">A Third-Year Computer Engineering Student | Aspiring Data Scientist</h3>
 <h2>About Me 🚀</h2>
 
 - 🌱 I’m currently **Advancing my skills in Data Science alongside my University studies.**
